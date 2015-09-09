@@ -1,2 +1,2 @@
-# gpu_opencl
-Python Code for Running Parallel Computing on GPUs
+# Clustering On GPUs
+Running Levenstein Distance on GPUs
